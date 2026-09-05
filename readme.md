@@ -11,7 +11,7 @@
 <a href="https://github.com/B-koushik-09">
   <img src="https://img.shields.io/badge/GitHub-B--koushik--09-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/koushik-balla/">
+<a href="https://www.linkedin.com/in/koushik-balla-46799331b/">
   <img src="https://img.shields.io/badge/LinkedIn-Koushik%20Balla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:koushikballa09@gmail.com">
