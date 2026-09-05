@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=B-koushik-09&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"/>
 
 <br><br>
 
@@ -14,7 +13,11 @@
 <img src="https://img.shields.io/badge/GitHub-B--koushik--09-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/koushik-balla/">
+<a href="https://koushik-portfolio-09.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/koushik-balla-46799331b/">
 <img src="https://img.shields.io/badge/LinkedIn-Koushik%20Balla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -46,13 +49,19 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/koushik-balla/">
+<a href="https://koushik-portfolio-09.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/koushik-balla-46799331b/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:koushikballa09@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+
 
 </div>
 
@@ -130,13 +139,79 @@
 
 ---
 
-# 💼 Professional Experience
+💼 PROFESSIONAL EXPERIENCE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 🚀 Full Stack Web Development Intern
+🚀 Full Stack Web Development Intern
+   Elevance Skills
+   Jan 2026 – Mar 2026
 
-### Elevance Skills
+   Next.js • Node.js • Express.js • MongoDB • JWT • REST APIs
 
-`Jan 2026 – Mar 2026`
+   • Recruitment platform...
+   • Application tracking, resume builder...
 
-```text
-Next.js • Node.js • Express.js • MongoDB • JWT • REST APIs
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🤖 AI & ML Intern
+   Edunet Foundation — AICTE & IBM SkillsBuild
+   Jan 2026 – Feb 2026
+
+   Python • ML • Scikit-learn • EDA
+
+   • 6-week AI/ML internship...
+   • Data preprocessing, EDA, feature engineering...
+
+
+   # 🛠️ Skills & Languages
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,c,js" />
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,fastapi" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge" />
+
+<br><br>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0EA5E9?style=for-the-badge" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Sentence%20Transformers-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector%20Embeddings-7C3AED?style=for-the-badge" />
+
+<br><br>
+
+### 🔧 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+
+</div>
