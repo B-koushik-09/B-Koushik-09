@@ -39,33 +39,6 @@
 
 </div>
 
-<br>
-
-<!-- ======================= SOCIALS ======================= -->
-
-<div align="center">
-
-<a href="https://github.com/B-koushik-09">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://koushik-portfolio-09.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/koushik-balla-46799331b/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:koushikballa09@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-
-
-</div>
-
-<br>
 
 ---
 
@@ -139,31 +112,43 @@
 
 ---
 
-💼 PROFESSIONAL EXPERIENCE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 💼 Professional Experience
 
-🚀 Full Stack Web Development Intern
-   Elevance Skills
-   Jan 2026 – Mar 2026
+## 🚀 Full Stack Web Development Intern
 
-   Next.js • Node.js • Express.js • MongoDB • JWT • REST APIs
+### Elevance Skills
 
-   • Recruitment platform...
-   • Application tracking, resume builder...
+**Jan 2026 – Mar 2026**
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mongodb" />
 
-🤖 AI & ML Intern
-   Edunet Foundation — AICTE & IBM SkillsBuild
-   Jan 2026 – Feb 2026
+<br>
 
-   Python • ML • Scikit-learn • EDA
+- Developed a **full-stack recruitment platform** using **Next.js, Node.js, Express.js, and MongoDB** with **JWT authentication, role-based access control, and REST API integration**.
 
-   • 6-week AI/ML internship...
-   • Data preprocessing, EDA, feature engineering...
+- Implemented **application tracking**, a **resume builder**, **email-based OTP verification**, **subscription features**, and a **social feed supporting posts and comments**.
 
+<br>
 
-   # 🛠️ Skills & Languages
+---
+
+## 🤖 AI & ML Intern
+
+### Edunet Foundation — AICTE & IBM SkillsBuild
+
+**Jan 2026 – Feb 2026**
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br>
+
+- Completed a **6-week virtual internship** focused on **Machine Learning and Artificial Intelligence** concepts and their practical applications.
+
+- Gained hands-on experience with **Python, data preprocessing, exploratory data analysis, feature engineering, model training, and evaluation using Scikit-learn**.
+
+<br>
+
+---
 
 <div align="center">
 
